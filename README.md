@@ -2,6 +2,7 @@ Deployed App: https://todo-list-vaish07-cyber.vercel.app/
 
 
 Preview:
+
 ![todo](https://user-images.githubusercontent.com/85470526/155539691-14903357-4505-4da9-b317-30494ab396e4.PNG)
 
 
